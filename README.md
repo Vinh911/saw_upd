@@ -1,2 +1,2 @@
 # saw_upd
-Send-and-Wait-protocol with udp-sockets
+Client sends a message via udp and ipv6 to the server
